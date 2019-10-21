@@ -1,0 +1,26 @@
+#wrapper {margin:auto; width:1024px; border:2px blue solid;}
+header {height:50px; text-align:center; color:red; background:yellow;}
+h1 {font-size:22pt; font-weight:bold; text-align:center;}
+h2 {font-size:18pt; text-align:center;}
+p {font-size:14pt; text-align:center;}
+a {font-size:14pt;}
+menu
+{
+	width: 180px;
+	float: left;
+	padding: 10px;
+	border-right: 1px solid #000;
+}
+
+content
+{
+	margin-left: 200px;
+	border-left: 1px solid #000;
+	padding: 10px;
+	line-height: 2em;
+}
+
+.clearer
+{
+	clear: both;
+}
